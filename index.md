@@ -1,5 +1,3 @@
-# Léo Vacher 
-
 # Research
 
 ### Component separation 
