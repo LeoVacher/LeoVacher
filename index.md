@@ -31,7 +31,7 @@ vacher.leo.etu@gmail.com
 
 ## Referees
 
-Jonathan Aumont (PHD supervisor) jonathan.aumont@irap.omp.eu \\
-Ludovic Montier (PHD cosupervisor)ludovic.montier@irap.omp.eu \\
-Carlos J.A.P. Martins 
+Jonathan Aumont (PHD supervisor):jonathan.aumont@irap.omp.eu \\
+Ludovic Montier (PHD cosupervisor): ludovic.montier@irap.omp.eu \\
+Carlos J.A.P. Martins: 
 carlos.martins@astro.up.pt
