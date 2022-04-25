@@ -6,7 +6,7 @@ I am teaching assistant in several fields as point mechanics, thermodynamics and
 
 On my free time, I am also studying philosophy of science and differential geometry.
 
-You can find here my full [CV](CV/CV_PHD.pdf)
+You can find here my full [CV](CV/CV_PHD.pdf).
 
 # Research
 
