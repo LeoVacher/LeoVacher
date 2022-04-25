@@ -6,7 +6,7 @@ I am teaching assistant in several fields as point mechanics, thermodynamics and
 
 On my free time, I am also studying philosophy of science and differential geometry.
 
-You can find here my full [CV](CV/CV_PHD.pdf) and lists of my publications on [](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), arxiv, Inspire or [ResearchGate](https://www.researchgate.net/profile/Leo-Vacher).
+You can find here my full [CV](CV/CV_PHD.pdf) and lists of my publications on [Scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), arxiv, Inspire or [ResearchGate](https://www.researchgate.net/profile/Leo-Vacher).
 
 # Research
 
