@@ -14,10 +14,12 @@ PHD student at Institut de recherche en astrophysique et planétologie (IRAP).
 
 # Contacts
 
+## Mails
+
 leo.vacher@irap.omp.eu\\
 vacher.leo.etu@gmail.com
 
-# Referees
+## Referees
 
 Jonathan Aumont (PHD supervisor) jonathan.aumont@irap.omp.eu \\
 Ludovic Montier (PHD cosupervisor) ludovic.montier@irap.omp.eu \\
