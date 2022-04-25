@@ -20,6 +20,9 @@ You can find here my full [CV](CV/CV_PHD.pdf) and lists of my publications on [S
 
 # Outreach 
 
+[Yolonomy](https://yolonomy.github.io)
+[Exploreur](https://www.univ-tlse3.fr/exploreur-litebird-en-quete-des-premieres-fractions-de-secondes-de-l-univers)
+
 # Philosophy of science
 
 # Contacts
