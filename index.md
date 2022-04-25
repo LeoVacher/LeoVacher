@@ -6,7 +6,7 @@ I am teaching several fields as mechanics, thermodynamics and astrophysics at Un
 
 On my free time, I am also studying philosophy of science and differential geometry.
 
-Link to CV. [CV/CV_PHD.pdf]
+Link to CV.
 
 # Research
 
