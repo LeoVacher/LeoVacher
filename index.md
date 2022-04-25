@@ -2,11 +2,11 @@ After a master's degree in particle physics and cosmology at the University Gren
 
 My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics.
 
-I am teaching several fields as mechanics, thermodynamics and astrophysics at Université Paul Sabatier.
+I am teaching assistant in several fields as point mechanics, thermodynamics and astrophysics at Université Paul Sabatier.
 
 On my free time, I am also studying philosophy of science and differential geometry.
 
-[Link to CV.](CV/CV_PHD.pdf)
+You can find here my full [CV](CV/CV_PHD.pdf)
 
 # Research
 
