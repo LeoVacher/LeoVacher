@@ -2,7 +2,7 @@ After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-prog
 
 My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics.
 
-I am teaching assistant in several fields as point mechanics, thermodynamics and astrophysics at Université Paul Sabatier.
+I am teaching assistant in several fields as point mechanics, thermodynamics and astrophysics at [Université Paul Sabatier](https://www.univ-tlse3.fr).
 
 On my free time, I am also studying philosophy of science and differential geometry.
 
