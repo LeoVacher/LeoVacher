@@ -12,7 +12,7 @@ You can find here my full [CV](CV/CV_PHD.pdf) and my publications on [scholar](h
 
 ### Component separation and analysis of polarized astrophysical signals
 
-Moment expansion and spin-moments
+Moment expansion and spin-moments.
 Wavelet scattering transforms
 
 ### Systematics for CMB missions 
@@ -21,24 +21,30 @@ The LiteBIRD mission
 
 ### Varying constants and tests of the Einstein equivalence principle
 
-String theory and phenomenological models implying violation of the EEP and variation of the fundamental constants
+String theory and phenomenological models implying violation of the EEP and variation of the fundamental constants.
+In this framework, I am also a member of the Euclid collaboration.
 
 # Teachings 
 
-Teachings: Optics, Thermodynamics, point mechanics, astrophysics.
+I am teaching several fields at Université Paul Sabatier as: Optics, Thermodynamics, point mechanics and astrophysics.
 
-Publicaly available lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
+I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
 
 # Outreach 
 
-[Exploreur](https://www.univ-tlse3.fr/exploreur-litebird-en-quete-des-premieres-fractions-de-secondes-de-l-univers)
+You can find my outreach papers at:
+- [exploreur](https://www.univ-tlse3.fr/exploreur-litebird-en-quete-des-premieres-fractions-de-secondes-de-l-univers)
+- [pulsar](https://www.nfist.pt/pulsar/pulsar41)
 
-Active member in several associative projects as [Les étoiles brillent pour tous](http://ebpt.fr/association/), UniverSciel and UPS in space.
+I am also an active member in several associative projects as
+- [Les étoiles brillent pour tous](http://ebpt.fr/association/)
+- UniverSciel
+- UPS in space.
 
 # Philosophy of science
 
-Master's degree in philosophy of sciences.
-Ontological interpretations of gauge theories and Gauge interpretation of gravity.
+I am currently doing a master's degree in logic, history and philosophy of sciences.
+I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity.
 
 # Contacts
 
