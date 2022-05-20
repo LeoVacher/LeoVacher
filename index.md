@@ -39,8 +39,8 @@ You can find some of my outreachs contributions at:
 
 I am also an active member in several associative projects as
 - [Les étoiles brillent pour tous](http://ebpt.fr/association/)
-- UniverSciel
-- UPS in space.
+- [UniverSciel](https://www.google.com/search?client=opera&q=Universciel&sourceid=opera&ie=UTF-8&oe=UTF-8)
+- [UPS in space](https://www.upsinspace.com).
 
 # Philosophy of science
 
