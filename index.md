@@ -44,7 +44,7 @@ I am also an active member in several associative projects as
 
 # Philosophy of science
 
-I am currently doing a master's degree in logic, history and philosophy of sciences.
+I am currently doing a master's degree in [logic, history and philosophy of sciences](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead).
 I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity.
 
 # Contacts
