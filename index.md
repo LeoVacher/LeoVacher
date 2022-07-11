@@ -1,15 +1,18 @@
-After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. 
+After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. You can find here my full [CV](CV/CV_PHD.pdf) 
 
-My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics.
 
-I am teaching assistant in several fields as point mechanics, thermodynamics and astrophysics at [Université Paul Sabatier](https://www.univ-tlse3.fr).
+Beside research, I am involved in several teaching and outreach activities.On my free time, I am also studying philosophy of science and differential geometry.
 
-On my free time, I am also studying philosophy of science and differential geometry.
-
-You can find here my full [CV](CV/CV_PHD.pdf) and my publications on [scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), [arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Vacher%2C+L), [inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), [researchGate](https://www.researchgate.net/profile/Leo-Vacher) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
 
 # Research
 
+My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics. 
+In this framework, I am an active member of the LiteBIRD and the Euclid collaborations.
+
+A list of my publications is can be found on [scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), [arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Vacher%2C+L), [inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), [researchGate](https://www.researchgate.net/profile/Leo-Vacher) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
+
+
+<!-- 
 ### Component separation and analysis of polarized astrophysical signals
 
 Moment expansion and spin-moments.
@@ -23,10 +26,10 @@ The LiteBIRD mission
 
 String theory and phenomenological models implying violation of the EEP and variation of the fundamental constants.
 In this framework, I am also a member of the Euclid collaboration.
-
+ -->
 # Teachings 
 
-I am teaching several fields at Université Paul Sabatier as: Optics, Thermodynamics, point mechanics and astrophysics.
+I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr) as: Optics, Thermodynamics, point mechanics and astrophysics.
 
 I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
 
@@ -42,11 +45,11 @@ I am also an active member in several associative projects as
 - [UniverSciel](https://www.google.com/search?client=opera&q=Universciel&sourceid=opera&ie=UTF-8&oe=UTF-8)
 - [UPS in space](https://www.upsinspace.com).
 
-# Philosophy of science
+<!-- # Philosophy of science
 
 I am currently doing a master's degree in [logic, history and philosophy of sciences](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead).
 I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity.
-
+ -->
 # Contacts
 
 ## Mails
