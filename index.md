@@ -1,8 +1,6 @@
-After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. You can find here my full [CV](CV/CV_PHD.pdf) 
+After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. You can find my full CV [here](CV/CV_PHD.pdf).
 
-
-Beside research, I am involved in several teaching and outreach activities.On my free time, I am also studying [philosophy of science]](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) and differential geometry.
-
+Beside research, I am involved in several teaching and outreach activities. On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories and Gauge interpretations of gravity.
 
 # Research
 
