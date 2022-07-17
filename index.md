@@ -1,11 +1,11 @@
-After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. You can find my full CV [here](CV/CV_PHD.pdf).
+After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. You can find my full CV [here](CV/template.pdf) and a list of the talks I gave [here](CV/Talks.pdf).
+
+My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics. 
+In this framework, I am an active member of the LiteBIRD and the Euclid collaborations.
 
 Beside research, I am involved in several teaching and outreach activities. On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories and Gauge interpretations of gravity.
 
 # Research
-
-My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics. 
-In this framework, I am an active member of the LiteBIRD and the Euclid collaborations.
 
 A list of my publications is can be found on [scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), [arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Vacher%2C+L), [inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), [researchGate](https://www.researchgate.net/profile/Leo-Vacher) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
 
